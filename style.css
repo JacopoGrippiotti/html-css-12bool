@@ -4,3 +4,17 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/*UTILITIES*/
+
+.flex{
+    display: flex;
+}
+
+.text-white{
+    color: white;
+}
+
+.bg-blue{
+    background-color:#006cfa;
+}
