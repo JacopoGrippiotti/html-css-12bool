@@ -50,3 +50,13 @@ main.container div{
     height: 46px;
 }
 
+/*FOOTER*/
+
+footer.container h2{
+    margin-top: 10px;
+}
+
+footer.container div{
+    height: 46px;
+}
+
