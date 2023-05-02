@@ -19,10 +19,24 @@
     background-color:#006cfa;
 }
 
+.bg-green{
+    background-color:#01e165 ;
+}
+
 .border-white{
     border: 1px solid white;
 }
 
+.row .border-blue{
+    border-color: #006cfa;
+}
+
 .text-center{
     text-align: center;
+}
+
+/*MAIN*/
+
+main{
+    margin-top: 15px;
 }
